@@ -73,9 +73,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-4a9eff?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:dethalesespecificos@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-4a9eff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/thalesapenas)
-  [![GitHub](https://img.shields.io/badge/GitHub-4a9eff?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/thalesapenas)
   
 </div>
 
