@@ -13,9 +13,6 @@
 </div>
 
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4a9eff&width=900&size=22&center=true&lines=Computer+Science+Student+at+UFPI;Back-End+Developer+%7C+Python+%2B+Node.js;AI+%26+NLP+Enthusiast;Building+intelligent+systems+with+LLMs;Welcome+to+my+profile!" alt="Typing SVG"/>
-</div>
 
 <br>
 
