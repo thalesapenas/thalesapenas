@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  <b>`D E V E L O P E R  &  A I  E N G I N E E R`</b>
+  <b>`S O F T W A R E  E N G I N E E R`</b>
   <samp>
       <br>
       Hi there! I'm <b>Thales Rodrigues</b>
