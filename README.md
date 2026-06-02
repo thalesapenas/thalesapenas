@@ -9,6 +9,6 @@
   <img src="https://img.shields.io/badge/Agent-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </p>
 
-Software Engineer focused on back-end development, AI and NLP. I work with Python and TypeScript building REST APIs, LLM-based applications, and distributed systems. Interested in DevOps practices, and turning ML models into production-ready services.
+AI Engineer focused on back-end development with Gen AI solutions. I work with Python and TypeScript building REST APIs, LLM-based applications, and distributed systems.
 
 <a href="https://linkedin.com/in/thalesapenas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
